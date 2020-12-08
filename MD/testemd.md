@@ -16,12 +16,13 @@ Quais as vantagens? Em ordem:
 Um comentário muito famoso do filósofo Sócrates era
 >Só sei que nada sei.
 
-Se Sócrates sabe que nada sabe, logo ele sabe de algo. Portanto, Sócrates sabe de algo.
+Se Sócrates sabe que nada sabe, logo ele sabe de algo E não sabe de nada. Portanto, Sócrates sabe de algo.
 Temos uma **CONTRADIÇÃO**!
 
 Mudando de assunto, um teste de um _Hello World_ em algumas linguagens:
 
 ~~~java
+//java
 public static void main(String args[]){
    System.out.println("Hello World!")
    
@@ -30,6 +31,7 @@ public static void main(String args[]){
 ~~~
 
 ~~~python
+//python
 print("Hello World!")
 ~~~
 

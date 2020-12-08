@@ -1,10 +1,10 @@
-#Isso é um teste de MARKDOWN <h1>
+Isso é um teste de MARKDOWN <h6>
 
 Isso é um **teste** para uso de _MarkDown_.
 Seguindo um [tutorial de comandos](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open), eu estou fazendo:
 
-*Um texto MarkDown
-*Aprendendo a usar mais o GitHub
+* Um texto MarkDown
+* Aprendendo a usar mais o GitHub
 
 Quais as vantagens? Em ordem:
 1. Usar para tudo;

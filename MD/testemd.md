@@ -27,10 +27,11 @@ public static void main(String args[]){
    
    //ta faltando a classe, nao vou botar :p
 }
+~~~
 
 ~~~python
 print("Hello World!")
-
+~~~
 
 Tabela de teste de coisas óbvias (não sei se funciona aqui)
 

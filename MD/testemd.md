@@ -46,3 +46,12 @@ Lasagña                                                  |Bom
 Sushi                                                    |Ruim
 Strogonoff bem feito com coquinha geladahmmmmmmmmmmmmmmm |Banquete dos Deuses
 
+
+* m1 -> [1 1 1]
+        [2 2 2]
+        [3 3 3]
+        
+* m2 -> [1 1 1]
+        [2 2 2]
+        [3 3 3]
+
